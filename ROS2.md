@@ -106,4 +106,5 @@ setting default logger level: `ros2 run <pkg_name> <node name> --ros-args --log-
 ## 8. Creating a package
 
 - Creating a package: `ros2 pkg create --build-type ament_cmake <pkg_name>`
+- 
 
